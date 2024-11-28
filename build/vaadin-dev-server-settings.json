@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "R:/phone-book/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "R:/phone-book/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "R:/phone-book/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "R:\\phone-book\\build\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "R:\\phone-book\\build\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "R:/phone-book/build/dev-bundle/webapp",
+  "devBundleStatsOutput": "R:/phone-book/build/dev-bundle/config",
+  "jarResourcesFolder": "R:/phone-book/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "R:\\phone-book\\build\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

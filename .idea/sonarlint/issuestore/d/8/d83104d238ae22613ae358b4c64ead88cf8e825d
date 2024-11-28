@@ -1,0 +1,8 @@
+
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ÔõÓÇ¶2J$2aa77c7b-25c2-4232-bf69-df93d0580a7d
+t
+java:S1948",Make "repository" transient or serializable.(§ƒôúşÿÿÿÿ8íõÓÇ¶2J$7e970243-4adc-423e-aded-a65b895cfd83
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8‚öÓÇ¶2J$4845559f-0f4d-49dd-b5c2-9f195295fdf5
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ƒöÓÇ¶2J$f49874d9-4a19-45f7-9838-0531e9ab2521
